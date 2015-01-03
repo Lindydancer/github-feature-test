@@ -25,3 +25,9 @@ A test case can be defined as follows:
          (require 'faceup)
          (should (mylang-font-lock-test-apps "apps/FirstApp/alpha.mylang"))
          (should (mylang-font-lock-test-apps "apps/SecondApp/bravo.mylang")))
+
+| table1 | table2 |
+| table3 | table4 |
+
+| table1 | table2 |
+| table3 | table4 |
